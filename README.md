@@ -20,21 +20,21 @@ You are appointed as a Machine Learning Engineer for this project. Your task is 
 
 *The eight categories of Indian classical dance are as follows:*
 
->Manipuri
+- Manipuri
 
->Bharatanatyam
+- Bharatanatyam
 
->Odissi
+- Odissi
 
->Kathakali
+- Kathakali
 
->Kathak
+- Kathak
 
->Sattriya
+- Sattriya
 
->Kuchipudi
+- Kuchipudi
 
->Mohiniyattam
+- Mohiniyattam
 
 
 **Evaluation metric**
