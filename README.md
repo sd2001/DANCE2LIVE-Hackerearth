@@ -1,5 +1,5 @@
 # DANCE2LIVE-Hackerearth
-Recently a Deep Learning Classification challenge had being held on Hackerearth Platform.Using Pytorch I built a model which predicts the dance-form and classifies them among the 8 dance groups.
+Recently a Deep Learning Classification challenge had being held on Hackerearth Platform.Using Pytorch I built a model using Resnet18(Transfer Learning) which predicts the dance-form and classifies them among the 8 dance groups.
 
 ``
 I got a Final Accuracy of 97% on the **training set** and the 88.88% on the **validation set**.
