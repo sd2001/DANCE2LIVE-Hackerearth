@@ -1,8 +1,10 @@
 # DANCE2LIVE-Hackerearth
 Recently a Deep Learning Classification challenge had being held on Hackerearth Platform.Using Pytorch I built a model which predicts the dance-form and classifies them among the 8 dance groups.
 
+``
 I got a Final Accuracy of 97% on the **training set** and the 88.88% on the **validation set**.
 Overall score obtained on Hackerearth is 73.02/100 which is among the top 250 in the leaderboard out of the 5.8k registered participants.
+``
 
 The details are listed below:
 **Problem statement**
@@ -14,14 +16,22 @@ You are appointed as a Machine Learning Engineer for this project. Your task is 
 
 *The eight categories of Indian classical dance are as follows:*
 
-Manipuri
-Bharatanatyam
-Odissi
-Kathakali
-Kathak
-Sattriya
-Kuchipudi
-Mohiniyattam
+>Manipuri
+
+>Bharatanatyam
+
+>Odissi
+
+>Kathakali
+
+>Kathak
+
+>Sattriya
+
+>Kuchipudi
+
+>Mohiniyattam
+
 
 **Evaluation metric**
 
