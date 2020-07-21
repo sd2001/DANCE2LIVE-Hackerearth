@@ -41,3 +41,8 @@ You are appointed as a Machine Learning Engineer for this project. Your task is 
 
 Note: To avoid any discrepancies in the scoring, ensure all the index column (Image) values in the submitted file match the values in the provided test.csv file.
 
+- [x] Made predictions on the Test Files
+
+- [x] Uploaded them in .csv format
+
+- [x] Submitted on HackerEarth, got a score of 73.02
