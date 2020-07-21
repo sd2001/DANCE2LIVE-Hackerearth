@@ -23,3 +23,7 @@ Sattriya
 Kuchipudi
 Mohiniyattam
 
+**Evaluation metric**
+
+Note: To avoid any discrepancies in the scoring, ensure all the index column (Image) values in the submitted file match the values in the provided test.csv file.
+
