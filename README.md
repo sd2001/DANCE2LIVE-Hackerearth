@@ -1,4 +1,4 @@
-# DANCE2LIVE-Hackerearth
+# 💃DANCE2LIVE-Hackerearth🕺
 Recently a Deep Learning Classification challenge had being held on Hackerearth Platform.Using Pytorch I built a model deploying Resnet18(Transfer Learning) which predicts the dance-form and classifies them among the 8 dance groups.
 
 `
@@ -10,7 +10,7 @@ Overall score obtained on Hackerearth is 73.02/100 which is among the top 250 in
 
 #### The details are listed below:--
 
-**Problem statement**
+**Problem statement**📷
 
 This International Dance Day, an event management company organized an evening of Indian classical dance performances to celebrate the rich, eloquent, and elegant art of dance. After the event, the company plans to create a microsite to promote and raise awareness among people about these dance forms. However, identifying them from images is a difficult task.
 
