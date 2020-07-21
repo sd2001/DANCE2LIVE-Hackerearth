@@ -8,7 +8,7 @@ Overall score obtained on Hackerearth is 73.02/100 which is among the top 250 in
 
 ![](https://github.com/sd2001/DANCE2LIVE-Hackerearth/blob/master/deep_dance.png)
 
-The details are listed below:
+#### The details are listed below:--
 
 **Problem statement**
 
